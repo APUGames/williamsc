@@ -14,7 +14,7 @@ The mechanics of the game on the web includes Z, X, Enter (Start), Shift (Select
 
 ## Instructions
 
-Instructions go here.
+Navigate to the builds folder and either download the web directory to play in a web browser or download the rom folder to play in an emulator (or on a Game Boy!).
 
 ## Controls
 
