@@ -5149,8 +5149,8 @@
                     "hit2Script": [],
                     "hit3Script": [],
                     "id": "8b217cd3-ebfd-4dad-b30a-927fc80a119c",
-                    "x": 24,
-                    "y": 45,
+                    "x": 22,
+                    "y": 43,
                     "collisionGroup": "1"
                 }
             ],
@@ -9497,7 +9497,8 @@
                             "b"
                         ],
                         "persist": true,
-                        "__scriptTabs": "press"
+                        "__scriptTabs": "press",
+                        "__comment": true
                     },
                     "children": {
                         "true": [
@@ -9508,7 +9509,8 @@
                                     "actorId": "$self$",
                                     "direction": "right",
                                     "__collapseElse": false,
-                                    "__disableElse": true
+                                    "__disableElse": true,
+                                    "__collapse": true
                                 },
                                 "children": {
                                     "true": [
@@ -9544,7 +9546,8 @@
                                     "actorId": "$self$",
                                     "direction": "down",
                                     "__collapseElse": false,
-                                    "__disableElse": true
+                                    "__disableElse": true,
+                                    "__collapse": true
                                 },
                                 "children": {
                                     "true": [
@@ -9580,7 +9583,8 @@
                                     "actorId": "$self$",
                                     "direction": "up",
                                     "__collapseElse": false,
-                                    "__disableElse": true
+                                    "__disableElse": true,
+                                    "__collapse": true
                                 },
                                 "children": {
                                     "true": [
@@ -9616,7 +9620,8 @@
                                     "actorId": "$self$",
                                     "direction": "left",
                                     "__collapseElse": false,
-                                    "__disableElse": true
+                                    "__disableElse": true,
+                                    "__collapse": true
                                 },
                                 "children": {
                                     "true": [
@@ -11894,18 +11899,6 @@
                 }
             ],
             "playerHit1Script": [
-                {
-                    "id": "61ea7442-68f5-4933-9a72-4de2d6091593",
-                    "command": "EVENT_WEAPON_ATTACK",
-                    "args": {
-                        "spriteSheetId": "0d80b312-6b5e-4855-a605-808dc944f555",
-                        "actorId": "$self$",
-                        "collisionGroup": "1",
-                        "collisionMask": [
-                            "1"
-                        ]
-                    }
-                },
                 {
                     "id": "d22c2014-7257-4186-b181-5abd439dd1b0",
                     "command": "EVENT_END"
@@ -15957,13 +15950,13 @@
         }
     ],
     "settings": {
-        "startSceneId": "e8759593-9582-4ae3-b662-4697deece798",
-        "startX": 12,
-        "startY": 11,
+        "startSceneId": "10ee4d8e-3e8e-469a-b832-1f36f9b30a07",
+        "startX": 0,
+        "startY": 0,
         "showCollisions": true,
         "showConnections": true,
         "worldScrollX": 0,
-        "worldScrollY": 333,
+        "worldScrollY": 0,
         "zoom": 100,
         "customColorsEnabled": false,
         "defaultBackgroundPaletteIds": [
