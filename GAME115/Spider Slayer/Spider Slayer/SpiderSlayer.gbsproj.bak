@@ -10637,9 +10637,13 @@
                             "command": "EVENT_TEXT",
                             "args": {
                                 "text": [
-                                    "Gal: Your mother\nwas truly amazing.\nShe protected the ",
-                                    "village from those\ntreacherous\nspiders.",
-                                    "You must now do\nthe same.",
+                                    "Gal: Congrats on\ncompleting the\ntrial of ",
+                                    "perservearance.\nYour brother's\njudgement was not ",
+                                    "misplaced. ",
+                                    "MC: You knew my\nbrother? What\nhappened?",
+                                    "Gal: You will find\nout all in due\ntime. You must now",
+                                    "complete the trial\nof courage and\nfollow in her ",
+                                    "footsteps\ntraveler.",
                                     "MC: I understand\nthat I must follow\nin her footsteps",
                                     "but how? I'm not \nlike her, and I'm\nbeginning to th-",
                                     "Gal: Don't doubt\nyourself traveler!\nI shall help you.",

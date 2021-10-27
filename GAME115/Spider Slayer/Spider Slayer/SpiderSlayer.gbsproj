@@ -5313,7 +5313,7 @@
                             "args": {
                                 "text": [
                                     "Villager: Help!!!",
-                                    "MC: Gah! Sounds\nlike it's coming\nfrom.",
+                                    "MC: Gah! Sounds\nlike it's from\nSouth Village.",
                                     "Gotta hurry!\nHopefully I won't\nhave to use this.",
                                     "*(X to slash btw)*"
                                 ],
@@ -15780,7 +15780,7 @@
         "showCollisions": true,
         "showConnections": true,
         "worldScrollX": 0,
-        "worldScrollY": 464,
+        "worldScrollY": 0,
         "zoom": 100,
         "customColorsEnabled": false,
         "defaultBackgroundPaletteIds": [
