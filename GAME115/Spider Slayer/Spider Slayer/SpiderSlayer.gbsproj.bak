@@ -598,7 +598,7 @@
                     "command": "EVENT_TEXT",
                     "args": {
                         "text": [
-                            "It's been a long\nday of work and\nit's time for rest"
+                            "It's been a long\nday of work and it\nis time for rest."
                         ],
                         "avatarId": ""
                     }
@@ -748,7 +748,7 @@
                             "args": {
                                 "text": [
                                     "This is brother's\nbed. It's cold to\nthe touch...",
-                                    "I shouldn't sleep\nthere"
+                                    "I shouldn't sleep\nthere..."
                                 ],
                                 "avatarId": ""
                             }
@@ -774,7 +774,7 @@
                             "args": {
                                 "text": [
                                     "I had my sword\ncrafted after my\nmother's. ",
-                                    "She was the\ncoolest"
+                                    "She was the\ncoolest..."
                                 ],
                                 "avatarId": ""
                             }
@@ -4726,7 +4726,7 @@
                             "command": "EVENT_TEXT",
                             "args": {
                                 "text": [
-                                    "GAH!!! I'm scared!"
+                                    "Guy 1: GAH!!! I'm\nscared!"
                                 ],
                                 "avatarId": ""
                             }
@@ -4798,7 +4798,7 @@
                                 "text": [
                                     "Girl 1: You need\nto get rid of\nthose spiders!",
                                     "A group went to\nthe north\nmountains.",
-                                    "Another the cave.\nPlease deal with\nit. Your mom would"
+                                    "Another the cave.\nDeal with MC. Your\nmom would."
                                 ],
                                 "avatarId": ""
                             }
@@ -4832,7 +4832,7 @@
                             "command": "EVENT_TEXT",
                             "args": {
                                 "text": [
-                                    "Girl 2: It's okay\nsis, I won't let\nthem hurt you",
+                                    "Girl 2: It's okay\nsis, I won't let\nthem hurt you.",
                                     "If only your\nbrother or mother\nwere here. ",
                                     "We would be\nsafe..."
                                 ],
@@ -5164,7 +5164,7 @@
                             "command": "EVENT_TEXT",
                             "args": {
                                 "text": [
-                                    "You arrived just\nin time. Thanks\nfor helping us"
+                                    "You arrived just\nin time. Thanks\nfor helping us."
                                 ],
                                 "avatarId": ""
                             }
@@ -5191,7 +5191,7 @@
                                 "text": [
                                     "Please go after\nthose spiders.\n",
                                     "A group of them\nwent in the cave,\nanother the forest",
-                                    "And more up the\nmountain. Please\ndeal with them"
+                                    "And more up the\nmountain. Please\ndeal with them."
                                 ],
                                 "avatarId": ""
                             }
@@ -5289,8 +5289,8 @@
                                 "text": [
                                     "Villager: Help!!!",
                                     "MC: Gah! Sounds\nlike it's coming\nfrom.",
-                                    "Gotta hurry!\nHopefully I won't\nhave to use this",
-                                    "(X to slash btw)"
+                                    "Gotta hurry!\nHopefully I won't\nhave to use this.",
+                                    "*(X to slash btw)*"
                                 ],
                                 "avatarId": ""
                             }
@@ -5315,7 +5315,7 @@
                             "command": "EVENT_TEXT",
                             "args": {
                                 "text": [
-                                    "The bridge is\nstill under\nrepairs. Can't go"
+                                    "The bridge is\nstill under\nrepairs. Can't go."
                                 ],
                                 "avatarId": ""
                             }
@@ -5810,12 +5810,12 @@
                                     "Dude 1:Your\nbrother was truly\namazing. He would",
                                     "defend the village\nfrom those\nspiders.",
                                     "You must now do\nthe same.",
-                                    "I understand that\nI must take his\nplace, but how?",
-                                    "MC: I'm not like\nhim. I'm starting\nto think that I-",
+                                    "MC:I understand\nthat I must take\nhis place, but ",
+                                    "how? I'm not like\nhim. I'm starting\nto think that I-",
                                     "Dude 1: Don't\ndoubt yourself\ntraveler.",
                                     "Follow this path,\ncomplete the\ntrials, and with",
                                     "some\nperservereance,\nyou can succeed",
-                                    "MC: I'll give it\nmy all! I'll face\nyour trials n' win"
+                                    "MC: I'll give it\nmy all! I'll face\nthe trials n' win!"
                                 ],
                                 "avatarId": ""
                             }
@@ -5850,12 +5850,12 @@
                             "args": {
                                 "text": [
                                     "Gal: Your mother\nwas truly amazing.\nShe protected the ",
-                                    "village from those\ntreacherous\nspiders",
+                                    "village from those\ntreacherous\nspiders.",
                                     "You must now do\nthe same.",
                                     "MC: I understand\nthat I must follow\nin her footsteps",
                                     "but how? I'm not \nlike her, and I'm\nbeginning to th-",
                                     "Gal: Don't doubt\nyourself traveler!\nI shall help you.",
-                                    "Follow the right\npath,complete the\nchallenge.",
+                                    "Follow the right\npath, complete the\nchallenge.",
                                     "With some courage,\nyou will surpass\nher. ",
                                     "MC: I won't back\ndown,and I'll give\nit my all!"
                                 ],
@@ -5961,7 +5961,7 @@
                             "command": "EVENT_TEXT",
                             "args": {
                                 "text": [
-                                    "There's no turning\nback if you pursue\nthis path",
+                                    "There's no turning\nback if you pursue\nthis path.",
                                     "Are you sure?"
                                 ],
                                 "avatarId": ""
@@ -5987,7 +5987,7 @@
                             "command": "EVENT_TEXT",
                             "args": {
                                 "text": [
-                                    "There's no turning\nback if you pursue\nthis path",
+                                    "There's no turning\nback if you pursue\nthis path.",
                                     "Are you sure?"
                                 ],
                                 "avatarId": ""
@@ -6494,7 +6494,7 @@
                     "command": "EVENT_TEXT",
                     "args": {
                         "text": [
-                            "So this is the\ntrial of\nperservearance ",
+                            "So this is the\ntrial of\nperservearance. ",
                             "Fascinating..."
                         ],
                         "avatarId": ""
@@ -7045,18 +7045,6 @@
             ],
             "playerHit1Script": [
                 {
-                    "id": "4bb986b3-0688-4644-8561-095a0d9fd605",
-                    "command": "EVENT_WEAPON_ATTACK",
-                    "args": {
-                        "spriteSheetId": "0d80b312-6b5e-4855-a605-808dc944f555",
-                        "actorId": "$self$",
-                        "collisionGroup": "1",
-                        "collisionMask": [
-                            "1"
-                        ]
-                    }
-                },
-                {
                     "id": "1b9ec7c8-fe61-4bed-8394-2099095280dc",
                     "command": "EVENT_END"
                 }
@@ -7156,7 +7144,7 @@
                 {
                     "name": "",
                     "frame": 0,
-                    "animate": true,
+                    "animate": false,
                     "spriteSheetId": "758ef571-1561-4362-8eab-7ce081738053",
                     "spriteType": "actor",
                     "direction": "down",
@@ -8177,20 +8165,7 @@
             ],
             "playerHit1Script": [
                 {
-                    "id": "e6b3ce7b-d8bb-43d4-b621-87e8cf309844",
-                    "command": "EVENT_WEAPON_ATTACK",
-                    "args": {
-                        "spriteSheetId": "d4108e56-ce83-4724-ad1f-9a7f61792926",
-                        "actorId": "$self$",
-                        "collisionGroup": "3",
-                        "collisionMask": [
-                            "1",
-                            "player"
-                        ]
-                    }
-                },
-                {
-                    "id": "89a66b4d-30ce-416c-a692-19c67303ab62",
+                    "id": "96f54fde-a2c2-4957-ac96-04e7520b2f5a",
                     "command": "EVENT_END"
                 }
             ],
@@ -10226,8 +10201,8 @@
                                     "Dude 1:Your\nbrother was truly\namazing. He would",
                                     "defend the village\nfrom those\nspiders.",
                                     "You must now do\nthe same.",
-                                    "I understand that\nI must take his\nplace, but how?",
-                                    "MC: I'm not like\nhim. I'm starting\nto think that I-",
+                                    "MC: I understand\nthat I must take\nhis place, but ",
+                                    "how? I'm not like\nhim. I'm starting\nto think that I-",
                                     "Dude 1: Don't\ndoubt yourself\ntraveler.",
                                     "Follow this path,\ncomplete the\ntrials, and with",
                                     "some\nperservereance,\nyou can succeed",
@@ -10335,7 +10310,7 @@
                             "command": "EVENT_TEXT",
                             "args": {
                                 "text": [
-                                    "There's no turning\nback if you pursue\nthis path",
+                                    "There's no turning\nback if you pursue\nthis path.",
                                     "Are you sure?"
                                 ],
                                 "avatarId": ""
@@ -10803,7 +10778,7 @@
                             "args": {
                                 "text": [
                                     "Gal: Your mother\nwas truly amazing.\nShe protected the ",
-                                    "village from those\ntreacherous\nspiders",
+                                    "village from those\ntreacherous\nspiders.",
                                     "You must now do\nthe same.",
                                     "MC: I understand\nthat I must follow\nin her footsteps",
                                     "but how? I'm not \nlike her, and I'm\nbeginning to th-",
@@ -10840,7 +10815,7 @@
                             "command": "EVENT_TEXT",
                             "args": {
                                 "text": [
-                                    "There's no turning\nback if you pursue\nthis path",
+                                    "There's no turning\nback if you pursue\nthis path.",
                                     "Are you sure?"
                                 ],
                                 "avatarId": ""
@@ -11347,7 +11322,7 @@
                     "command": "EVENT_TEXT",
                     "args": {
                         "text": [
-                            "So this is the\ntrial of\nperservearance ",
+                            "So this is the\ntrial of\nperservearance. ",
                             "Fascinating..."
                         ],
                         "avatarId": ""
@@ -11374,8 +11349,8 @@
                             "id": "4b9f7ba5-18fb-4c4e-9c20-329ace7daf21",
                             "command": "EVENT_SWITCH_SCENE",
                             "args": {
-                                "sceneId": "0d7a10da-474c-4a76-a9c6-8b8ca3dcabb6",
-                                "x": 8,
+                                "sceneId": "c097ee35-9f7d-4507-abe5-a0c4f192e8d0",
+                                "x": 9,
                                 "y": 9,
                                 "direction": "",
                                 "fadeSpeed": "2"
@@ -13793,7 +13768,7 @@
             "imageHeight": 160,
             "filename": "BigBro'sDomain.png",
             "inode": "2442400",
-            "_v": 1635194114610
+            "_v": 1635371285442
         },
         {
             "id": "9544ee09-066c-4b85-9610-755603ab0170",
@@ -13804,7 +13779,7 @@
             "imageHeight": 160,
             "filename": "EndScene.png",
             "inode": "2442398",
-            "_v": 1635194114610
+            "_v": 1635371285442
         },
         {
             "id": "02818168-201b-4290-99bd-1ba210870f2f",
@@ -13815,7 +13790,7 @@
             "imageHeight": 144,
             "filename": "Gamelogo.png",
             "inode": "2442396",
-            "_v": 1635194114610
+            "_v": 1635371285442
         },
         {
             "id": "91e4760f-8ea5-4ac7-a987-1a6444175899",
@@ -13826,7 +13801,7 @@
             "imageHeight": 144,
             "filename": "NewGameLogo.png",
             "inode": "2442394",
-            "_v": 1635194114610
+            "_v": 1635371285442
         },
         {
             "id": "dbd2e0fc-346a-4a9f-b143-8aa4e6c3f230",
@@ -13837,7 +13812,7 @@
             "imageHeight": 160,
             "filename": "Perserveance1.png",
             "inode": "2442392",
-            "_v": 1635194114610
+            "_v": 1635371285442
         },
         {
             "id": "6d5863b5-514c-4b2d-bcaf-f111a509e7fe",
@@ -13848,7 +13823,7 @@
             "imageHeight": 160,
             "filename": "Perserveance2.png",
             "inode": "2442391",
-            "_v": 1635194114610
+            "_v": 1635371285442
         },
         {
             "id": "2532002a-b38b-42e0-8895-6452c5cfc24b",
@@ -13859,7 +13834,7 @@
             "imageHeight": 160,
             "filename": "Perserveance3.png",
             "inode": "2442390",
-            "_v": 1635194114610
+            "_v": 1635371285442
         },
         {
             "id": "4a1a396a-68db-4930-be5e-8378f5353530",
@@ -13870,7 +13845,7 @@
             "imageHeight": 160,
             "filename": "Room-1.png",
             "inode": "2442389",
-            "_v": 1635194114610
+            "_v": 1635371285442
         },
         {
             "id": "ca4fa46b-21d3-40fc-8986-f4952318690a",
@@ -13881,7 +13856,7 @@
             "imageHeight": 160,
             "filename": "Room1.png",
             "inode": "2442388",
-            "_v": 1635194114611
+            "_v": 1635371285442
         },
         {
             "id": "bb0dee6d-b464-4618-babd-bf129527b89c",
@@ -13892,7 +13867,7 @@
             "imageHeight": 160,
             "filename": "Void.png",
             "inode": "2442387",
-            "_v": 1635194114611
+            "_v": 1635371285442
         },
         {
             "id": "4fb8ec9c-b543-486b-8d90-233c423941f9",
@@ -13903,7 +13878,7 @@
             "imageHeight": 160,
             "filename": "background-1 copy.png",
             "inode": "2442386",
-            "_v": 1635194114610
+            "_v": 1635371285442
         },
         {
             "id": "e09c477b-7cf8-437a-a56c-ee062c035f4b",
@@ -13914,7 +13889,7 @@
             "imageHeight": 160,
             "filename": "background-1.png",
             "inode": "2442385",
-            "_v": 1635194114610
+            "_v": 1635371285442
         },
         {
             "id": "1da35172-aea4-40b4-8215-7992d9245b34",
@@ -13925,7 +13900,7 @@
             "imageHeight": 144,
             "filename": "black.png",
             "inode": "2442384",
-            "_v": 1635194114610
+            "_v": 1635371285442
         },
         {
             "id": "1d57b5c9-8b9f-4c73-b7d9-a2326e361ffd",
@@ -13936,7 +13911,7 @@
             "imageHeight": 144,
             "filename": "ca_logo_sm.png",
             "inode": "2442383",
-            "_v": 1635194114610
+            "_v": 1635371285442
         },
         {
             "id": "6fad1892-bcb2-4924-bd1c-1e4d03dfeabb",
@@ -13947,7 +13922,7 @@
             "imageHeight": 144,
             "filename": "cave.png",
             "inode": "2442382",
-            "_v": 1635194114610
+            "_v": 1635371285442
         },
         {
             "id": "4dc5f569-22d3-4fc6-9b79-d8cd1afa658b",
@@ -13958,7 +13933,7 @@
             "imageHeight": 144,
             "filename": "gim_logo_sm.png",
             "inode": "2442381",
-            "_v": 1635194114610
+            "_v": 1635371285442
         },
         {
             "id": "481e920a-10b8-4d5b-b6a2-dffa96b57bf0",
@@ -13969,7 +13944,7 @@
             "imageHeight": 144,
             "filename": "hidden_cave.png",
             "inode": "2442380",
-            "_v": 1635194114610
+            "_v": 1635371285442
         },
         {
             "id": "5b192b93-3957-4b76-8c92-423eabbcd285",
@@ -13980,7 +13955,7 @@
             "imageHeight": 144,
             "filename": "house-wide.png",
             "inode": "2442379",
-            "_v": 1635194114610
+            "_v": 1635371285442
         },
         {
             "id": "b340b9a2-2865-4e05-91c0-148846a693c8",
@@ -13991,7 +13966,7 @@
             "imageHeight": 144,
             "filename": "house.png",
             "inode": "2442378",
-            "_v": 1635194114611
+            "_v": 1635371285442
         },
         {
             "id": "00e9b250-b602-4e5d-998c-fe0c8f23c91d",
@@ -14002,7 +13977,7 @@
             "imageHeight": 144,
             "filename": "launch_site.png",
             "inode": "2442377",
-            "_v": 1635194114610
+            "_v": 1635371285442
         },
         {
             "id": "28a8b376-b6c5-4e6d-8d7d-2a409d73cd1b",
@@ -14013,7 +13988,7 @@
             "imageHeight": 144,
             "filename": "leaving_earth.png",
             "inode": "2442376",
-            "_v": 1635194114610
+            "_v": 1635371285442
         },
         {
             "id": "f8b1c7ad-7bb2-44b2-8189-175ae8698f11",
@@ -14024,7 +13999,7 @@
             "imageHeight": 144,
             "filename": "logo.png",
             "inode": "2442375",
-            "_v": 1635194114610
+            "_v": 1635371285442
         },
         {
             "id": "b49ea566-b022-478c-979d-ec3ee255fdc5",
@@ -14035,7 +14010,7 @@
             "imageHeight": 144,
             "filename": "menu.png",
             "inode": "2442374",
-            "_v": 1635194114610
+            "_v": 1635371285442
         },
         {
             "id": "93d8839f-c19c-4eb2-a386-b0bb77068521",
@@ -14046,7 +14021,7 @@
             "imageHeight": 144,
             "filename": "menu_page1.png",
             "inode": "2442373",
-            "_v": 1635194114610
+            "_v": 1635371285442
         },
         {
             "id": "816231e1-2147-462c-99c6-3f73e8535d25",
@@ -14057,7 +14032,7 @@
             "imageHeight": 144,
             "filename": "menu_page2.png",
             "inode": "2442372",
-            "_v": 1635194114610
+            "_v": 1635371285442
         },
         {
             "id": "07016701-d5df-4983-8a5a-3930c7f45822",
@@ -14068,7 +14043,7 @@
             "imageHeight": 256,
             "filename": "outside.png",
             "inode": "2442371",
-            "_v": 1635194114610
+            "_v": 1635371285442
         },
         {
             "id": "b50cefc6-72dc-44c0-947d-f5d4d533a97a",
@@ -14079,7 +14054,7 @@
             "imageHeight": 144,
             "filename": "platform_path.png",
             "inode": "2442370",
-            "_v": 1635194114611
+            "_v": 1635371285442
         },
         {
             "id": "0af9ba31-7864-4664-9603-b211dc0f3793",
@@ -14090,7 +14065,7 @@
             "imageHeight": 144,
             "filename": "room.png",
             "inode": "2442369",
-            "_v": 1635194114610
+            "_v": 1635371285442
         },
         {
             "id": "053f83aa-a4e3-413b-98af-1bb0d0818ddc",
@@ -14101,7 +14076,7 @@
             "imageHeight": 448,
             "filename": "sample_town.png",
             "inode": "2442368",
-            "_v": 1635194114611
+            "_v": 1635371285442
         },
         {
             "id": "40fda058-df90-4205-a239-fe77bce4fa79",
@@ -14112,7 +14087,7 @@
             "imageHeight": 256,
             "filename": "stars.png",
             "inode": "2442367",
-            "_v": 1635194114611
+            "_v": 1635371285442
         },
         {
             "id": "33ae580b-d809-4804-a558-71c08a3ac495",
@@ -14123,7 +14098,7 @@
             "imageHeight": 144,
             "filename": "stars_wide.png",
             "inode": "2442366",
-            "_v": 1635194114611
+            "_v": 1635371285442
         },
         {
             "id": "f047ff0e-58ad-49fc-bd2b-ec84fc1f7ab3",
@@ -14134,7 +14109,7 @@
             "imageHeight": 144,
             "filename": "titlescreen.png",
             "inode": "2442365",
-            "_v": 1635194114611
+            "_v": 1635371285442
         },
         {
             "id": "f3102db4-2273-411d-b33f-4d6f65959c60",
@@ -14145,7 +14120,7 @@
             "imageHeight": 256,
             "filename": "underground.png",
             "inode": "2442364",
-            "_v": 1635194114611
+            "_v": 1635371285442
         }
     ],
     "spriteSheets": [
@@ -14156,7 +14131,7 @@
             "type": "animated",
             "filename": "BigSpiderBro.png",
             "inode": "2442348",
-            "_v": 1635194114611
+            "_v": 1635371285442
         },
         {
             "id": "fdeec54c-b0f8-44ff-9b76-38b95dce1882",
@@ -14165,7 +14140,7 @@
             "type": "static",
             "filename": "BroderFang.png",
             "inode": "2442347",
-            "_v": 1635194114611
+            "_v": 1635371285442
         },
         {
             "id": "496ee53f-297e-49a3-a28e-8fa03916e511",
@@ -14174,7 +14149,7 @@
             "type": "actor_animated",
             "filename": "MainCharacter.png",
             "inode": "2442346",
-            "_v": 1635194114611
+            "_v": 1635371285442
         },
         {
             "id": "87b70cae-964d-4f4e-b488-4cc43102a823",
@@ -14183,7 +14158,7 @@
             "type": "animated",
             "filename": "SpiderBro.png",
             "inode": "2442344",
-            "_v": 1635194114611
+            "_v": 1635371285443
         },
         {
             "id": "c7008ecf-66fc-409d-ac0f-2eae3da3fe2d",
@@ -14192,7 +14167,7 @@
             "type": "animated",
             "filename": "SpiderBro2.png",
             "inode": "2442343",
-            "_v": 1635194114611
+            "_v": 1635371285443
         },
         {
             "id": "758ef571-1561-4362-8eab-7ce081738053",
@@ -14201,7 +14176,7 @@
             "type": "actor_animated",
             "filename": "Spooder1.png",
             "inode": "2442341",
-            "_v": 1635194114611
+            "_v": 1635371285443
         },
         {
             "id": "d4108e56-ce83-4724-ad1f-9a7f61792926",
@@ -14210,7 +14185,7 @@
             "type": "static",
             "filename": "Sword.png",
             "inode": "2442340",
-            "_v": 1635194114611
+            "_v": 1635371285443
         },
         {
             "id": "0d80b312-6b5e-4855-a605-808dc944f555",
@@ -14219,7 +14194,7 @@
             "type": "static",
             "filename": "SwordSlash-1.png",
             "inode": "2442339",
-            "_v": 1635194114611
+            "_v": 1635371285443
         },
         {
             "id": "bf9f5bf5-841e-4035-bd68-fe0ddd3451c6",
@@ -14228,7 +14203,7 @@
             "type": "static",
             "filename": "SwordSlashLeft.png",
             "inode": "2442338",
-            "_v": 1635194114611
+            "_v": 1635371285443
         },
         {
             "id": "24550b34-cfe3-4789-8c5e-43425f0c8f46",
@@ -14237,7 +14212,7 @@
             "type": "static",
             "filename": "SwordSlashUp.png",
             "inode": "2442337",
-            "_v": 1635194114611
+            "_v": 1635371285443
         },
         {
             "id": "860c29d8-4bb4-42d2-8e53-0a078f62dafc",
@@ -14246,7 +14221,7 @@
             "type": "static",
             "filename": "Untitled-2.png",
             "inode": "2442336",
-            "_v": 1635194114611
+            "_v": 1635371285443
         },
         {
             "id": "ec0f660e-c420-43ee-9d1e-6d8e9f320213",
@@ -14255,7 +14230,7 @@
             "type": "static",
             "filename": "bullet.png",
             "inode": "2442335",
-            "_v": 1635194114611
+            "_v": 1635371285442
         },
         {
             "id": "32c48a4d-6ce6-4aca-a23a-a6300b5c9e3b",
@@ -14264,7 +14239,7 @@
             "type": "animated",
             "filename": "bullet_left.png",
             "inode": "2442334",
-            "_v": 1635194114611
+            "_v": 1635371285442
         },
         {
             "id": "450a3571-cc76-41be-8c95-818d60b83c59",
@@ -14273,7 +14248,7 @@
             "type": "animated",
             "filename": "bullet_right.png",
             "inode": "2442333",
-            "_v": 1635194114611
+            "_v": 1635371285442
         },
         {
             "id": "1e27bb8e-c805-435a-8b87-05b4f50da4f0",
@@ -14282,7 +14257,7 @@
             "type": "static",
             "filename": "cat.png",
             "inode": "2442332",
-            "_v": 1635194114611
+            "_v": 1635371285442
         },
         {
             "id": "f0c3033d-e82a-407d-9fe2-3d5da4f59c09",
@@ -14291,7 +14266,7 @@
             "type": "animated",
             "filename": "checkbox.png",
             "inode": "2442331",
-            "_v": 1635194114611
+            "_v": 1635371285442
         },
         {
             "id": "d4206af4-4d12-4cfd-a4a8-faa11d4aff34",
@@ -14300,7 +14275,7 @@
             "type": "animated",
             "filename": "chest.png",
             "inode": "2442330",
-            "_v": 1635194114611
+            "_v": 1635371285442
         },
         {
             "id": "a827b612-578f-4cb9-a2bf-fd54b197b83f",
@@ -14309,7 +14284,7 @@
             "type": "animated",
             "filename": "cursor.png",
             "inode": "2442329",
-            "_v": 1635194114611
+            "_v": 1635371285442
         },
         {
             "id": "17219846-cda9-4e84-bdfa-c3ff105d42cc",
@@ -14318,7 +14293,7 @@
             "type": "static",
             "filename": "dog.png",
             "inode": "2442328",
-            "_v": 1635194114611
+            "_v": 1635371285442
         },
         {
             "id": "ede130e6-013a-42d1-a786-1aed3fd3cf32",
@@ -14327,7 +14302,7 @@
             "type": "animated",
             "filename": "duck.png",
             "inode": "2442327",
-            "_v": 1635194114611
+            "_v": 1635371285442
         },
         {
             "id": "954ffda3-81b7-40ea-a338-3b11ad4b75fb",
@@ -14336,7 +14311,7 @@
             "type": "animated",
             "filename": "enemy_ship.png",
             "inode": "2442326",
-            "_v": 1635194114611
+            "_v": 1635371285442
         },
         {
             "id": "493bdd1e-7e97-4911-b89a-c0677dfdcaaa",
@@ -14345,7 +14320,7 @@
             "type": "animated",
             "filename": "explode.png",
             "inode": "2442325",
-            "_v": 1635194114611
+            "_v": 1635371285442
         },
         {
             "id": "f2610e3c-8ff9-42fa-a9bb-d1591031fa17",
@@ -14354,7 +14329,7 @@
             "type": "animated",
             "filename": "fire.png",
             "inode": "2442324",
-            "_v": 1635194114611
+            "_v": 1635371285442
         },
         {
             "id": "81b14fe6-2235-480e-bc3b-a5899aa66afe",
@@ -14363,7 +14338,7 @@
             "type": "static",
             "filename": "hidden_stairs.png",
             "inode": "2442323",
-            "_v": 1635194114611
+            "_v": 1635371285442
         },
         {
             "id": "09ad70c6-3ce5-4b97-9e96-466221418a45",
@@ -14372,7 +14347,7 @@
             "type": "static",
             "filename": "ice.png",
             "inode": "2442322",
-            "_v": 1635194114611
+            "_v": 1635371285442
         },
         {
             "id": "8cb9c002-1abc-458c-9588-9b55af8efb08",
@@ -14381,7 +14356,7 @@
             "type": "animated",
             "filename": "machine.png",
             "inode": "2442321",
-            "_v": 1635194114611
+            "_v": 1635371285442
         },
         {
             "id": "dfa75239-299d-41fe-a6cd-9e9438da1938",
@@ -14390,7 +14365,7 @@
             "type": "actor",
             "filename": "npc001.png",
             "inode": "2442320",
-            "_v": 1635194114611
+            "_v": 1635371285442
         },
         {
             "id": "40dcd163-9f72-4861-8131-b01eb9baa000",
@@ -14399,7 +14374,7 @@
             "type": "actor",
             "filename": "npc002.png",
             "inode": "2442319",
-            "_v": 1635194114611
+            "_v": 1635371285442
         },
         {
             "id": "52ad34df-f245-4b2a-b94c-a82af1002871",
@@ -14408,7 +14383,7 @@
             "type": "actor_animated",
             "filename": "npc003.png",
             "inode": "2442318",
-            "_v": 1635194114611
+            "_v": 1635371285442
         },
         {
             "id": "46a3db76-878e-4896-892b-d1afa7d5e2f0",
@@ -14417,7 +14392,7 @@
             "type": "actor_animated",
             "filename": "npc004.png",
             "inode": "2442317",
-            "_v": 1635194114611
+            "_v": 1635371285442
         },
         {
             "id": "7a27b229-5f3d-4eaa-b20c-07997673324d",
@@ -14426,7 +14401,7 @@
             "type": "actor_animated",
             "filename": "npc005.png",
             "inode": "2442316",
-            "_v": 1635194114611
+            "_v": 1635371285442
         },
         {
             "id": "c475c713-9fd8-455a-b9bc-8c62b2b8fd5e",
@@ -14435,7 +14410,7 @@
             "type": "actor_animated",
             "filename": "npc006.png",
             "inode": "2442315",
-            "_v": 1635194114611
+            "_v": 1635371285442
         },
         {
             "id": "2b18f935-85a3-4f38-9f52-e5c4ea20776a",
@@ -14444,7 +14419,7 @@
             "type": "actor",
             "filename": "npc007.png",
             "inode": "2442314",
-            "_v": 1635194114611
+            "_v": 1635371285442
         },
         {
             "id": "ac1e8ef4-ffe6-47cd-b16f-9af5da77ec26",
@@ -14453,7 +14428,7 @@
             "type": "actor_animated",
             "filename": "player.png",
             "inode": "2442313",
-            "_v": 1635194114611
+            "_v": 1635371285442
         },
         {
             "id": "2f2d492c-dba2-434c-93c9-d1301e88d5e9",
@@ -14462,7 +14437,7 @@
             "type": "actor_animated",
             "filename": "player_ship.png",
             "inode": "2442312",
-            "_v": 1635194114611
+            "_v": 1635371285442
         },
         {
             "id": "058c0142-0c1e-4762-b5ac-e085d84fc734",
@@ -14471,7 +14446,7 @@
             "type": "actor",
             "filename": "pod_door.png",
             "inode": "2442311",
-            "_v": 1635194114611
+            "_v": 1635371285442
         },
         {
             "id": "94eb6557-0cfc-453e-8e1f-ddb191ac8536",
@@ -14480,7 +14455,7 @@
             "type": "actor",
             "filename": "portal.png",
             "inode": "2442310",
-            "_v": 1635194114611
+            "_v": 1635371285442
         },
         {
             "id": "a0442b6a-634f-44da-9962-77938e3ed839",
@@ -14489,7 +14464,7 @@
             "type": "static",
             "filename": "radio.png",
             "inode": "2442309",
-            "_v": 1635194114611
+            "_v": 1635371285442
         },
         {
             "id": "3939e8d2-3987-4a22-953e-f1d82134eccf",
@@ -14498,7 +14473,7 @@
             "type": "static",
             "filename": "rock.png",
             "inode": "2442308",
-            "_v": 1635194114611
+            "_v": 1635371285442
         },
         {
             "id": "e20ce140-53a5-4b1b-9964-138ba0c86925",
@@ -14507,7 +14482,7 @@
             "type": "static",
             "filename": "sage.png",
             "inode": "2442307",
-            "_v": 1635194114616
+            "_v": 1635371285442
         },
         {
             "id": "000a6dde-cb60-436e-b357-30a529daa139",
@@ -14516,7 +14491,7 @@
             "type": "animated",
             "filename": "savepoint.png",
             "inode": "2442306",
-            "_v": 1635194114611
+            "_v": 1635371285443
         },
         {
             "id": "30b8266a-0533-4f90-bd33-e97dc1d498ea",
@@ -14525,7 +14500,7 @@
             "type": "static",
             "filename": "signpost.png",
             "inode": "2442305",
-            "_v": 1635194114611
+            "_v": 1635371285442
         },
         {
             "id": "b4845aec-11e3-475b-8a9a-0a01b920c710",
@@ -14534,7 +14509,7 @@
             "type": "animated",
             "filename": "space_mine.png",
             "inode": "2442304",
-            "_v": 1635194114611
+            "_v": 1635371285443
         },
         {
             "id": "e9e61bf7-88fd-491d-ae01-4b7f76909108",
@@ -14543,7 +14518,7 @@
             "type": "static",
             "filename": "torch.png",
             "inode": "2442303",
-            "_v": 1635194114611
+            "_v": 1635371285443
         },
         {
             "id": "f88eea80-c5b4-4e10-b49f-7a8aa8bd477e",
@@ -14552,7 +14527,7 @@
             "type": "animated",
             "filename": "turnip.png",
             "inode": "2442302",
-            "_v": 1635194114611
+            "_v": 1635371285443
         },
         {
             "id": "6f1e5757-a472-4531-8a65-aee22751e917",
@@ -14561,7 +14536,7 @@
             "type": "static",
             "filename": "turnip_squash.png",
             "inode": "2442301",
-            "_v": 1635194114611
+            "_v": 1635371285443
         },
         {
             "id": "735c26e5-eee4-43ad-a668-a2ab93f84bd8",
@@ -14570,7 +14545,7 @@
             "type": "static",
             "filename": "ui_weapon.png",
             "inode": "2442300",
-            "_v": 1635194114611
+            "_v": 1635371285443
         }
     ],
     "palettes": [
@@ -15666,7 +15641,7 @@
             "filename": "Rulz_BattleTheme.mod",
             "settings": {},
             "inode": "2442362",
-            "_v": 1635194114588
+            "_v": 1635371285421
         },
         {
             "id": "4653812c-82b6-44ce-93b8-eea1d4b6fa71",
@@ -15674,7 +15649,7 @@
             "filename": "Rulz_FastPaceSpeedRace.mod",
             "settings": {},
             "inode": "2442361",
-            "_v": 1635194114588
+            "_v": 1635371285421
         },
         {
             "id": "e571be0d-bbaa-44ae-a411-c2b2e6c5ff24",
@@ -15682,7 +15657,7 @@
             "filename": "Rulz_GonaSpace.mod",
             "settings": {},
             "inode": "2442360",
-            "_v": 1635194114588
+            "_v": 1635371285421
         },
         {
             "id": "2e3e140a-ae8d-4970-8e8b-37b2119c7208",
@@ -15690,7 +15665,7 @@
             "filename": "Rulz_Into the woods.mod",
             "settings": {},
             "inode": "2442359",
-            "_v": 1635194114588
+            "_v": 1635371285421
         },
         {
             "id": "83b79b0b-6af5-4a01-ac40-2f86fd36ece8",
@@ -15698,7 +15673,7 @@
             "filename": "Rulz_Intro.mod",
             "settings": {},
             "inode": "2442358",
-            "_v": 1635194114588
+            "_v": 1635371285421
         },
         {
             "id": "0f78c331-7318-48ca-8a6c-a57c15ef423a",
@@ -15706,7 +15681,7 @@
             "filename": "Rulz_LightMood.mod",
             "settings": {},
             "inode": "2442357",
-            "_v": 1635194114588
+            "_v": 1635371285421
         },
         {
             "id": "180f6b13-2ccc-4af9-8ebf-3e3931f2e824",
@@ -15714,7 +15689,7 @@
             "filename": "Rulz_Outside.mod",
             "settings": {},
             "inode": "2442356",
-            "_v": 1635194114588
+            "_v": 1635371285421
         },
         {
             "id": "a98fc4b6-810e-4fb7-93ee-ef17be6ce95a",
@@ -15722,7 +15697,7 @@
             "filename": "Rulz_Pause_Underground.mod",
             "settings": {},
             "inode": "2442355",
-            "_v": 1635194114588
+            "_v": 1635371285421
         },
         {
             "id": "be5e3dd0-dc4f-46b3-aefe-9897de0775c3",
@@ -15730,7 +15705,7 @@
             "filename": "Rulz_SpaceEmergency.mod",
             "settings": {},
             "inode": "2442354",
-            "_v": 1635194114588
+            "_v": 1635371285421
         },
         {
             "id": "4f7446cc-f5b4-4749-8fd0-f587afe35747",
@@ -15738,7 +15713,7 @@
             "filename": "Rulz_UndergroundCave.mod",
             "settings": {},
             "inode": "2442353",
-            "_v": 1635194114588
+            "_v": 1635371285421
         },
         {
             "id": "f50428ab-a084-4591-9bba-2ba10fe7b1c6",
@@ -15746,7 +15721,7 @@
             "filename": "template.mod",
             "settings": {},
             "inode": "2442352",
-            "_v": 1635194114588
+            "_v": 1635371285421
         }
     ],
     "variables": [
@@ -15948,13 +15923,13 @@
         }
     ],
     "settings": {
-        "startSceneId": "10ee4d8e-3e8e-469a-b832-1f36f9b30a07",
-        "startX": 0,
-        "startY": 0,
+        "startSceneId": "0d7a10da-474c-4a76-a9c6-8b8ca3dcabb6",
+        "startX": 8,
+        "startY": 8,
         "showCollisions": true,
         "showConnections": true,
         "worldScrollX": 0,
-        "worldScrollY": 106,
+        "worldScrollY": 357,
         "zoom": 100,
         "customColorsEnabled": false,
         "defaultBackgroundPaletteIds": [
