@@ -614,7 +614,7 @@
                     "command": "EVENT_TEXT",
                     "args": {
                         "text": [
-                            "Brother loved\nthis. It means\n\"God\" in Japanese"
+                            "Brother loved\nthis. It means\n\"God\" in Japanese."
                         ],
                         "avatarId": ""
                     }
@@ -1366,6 +1366,31 @@
                     "x": 3,
                     "y": 14,
                     "width": 2,
+                    "height": 1
+                },
+                {
+                    "name": "",
+                    "trigger": "walk",
+                    "script": [
+                        {
+                            "id": "8360cba3-de8d-4c8b-be6d-f9826a63d62a",
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "I will make you\nproud mom."
+                                ],
+                                "avatarId": ""
+                            }
+                        },
+                        {
+                            "id": "589383f5-ae7a-4df1-a886-aacc3f5ea44e",
+                            "command": "EVENT_END"
+                        }
+                    ],
+                    "id": "e1e01dd2-e863-417f-ba08-00ebfa6b1520",
+                    "x": 4,
+                    "y": 15,
+                    "width": 1,
                     "height": 1
                 }
             ]
@@ -4798,7 +4823,7 @@
                                 "text": [
                                     "Girl 1: You need\nto get rid of\nthose spiders!",
                                     "A group went to\nthe north\nmountains.",
-                                    "Another the cave.\nDeal with MC. Your\nmom would."
+                                    "Another the cave.\nDeal with it MC.\nYour mom would..."
                                 ],
                                 "avatarId": ""
                             }
@@ -5773,7 +5798,7 @@
                     "command": "EVENT_TEXT",
                     "args": {
                         "text": [
-                            "Woah, where am I?\nThis isn't the\ncave.",
+                            "MC: Woah, where am\nI? This isn't the\ncave.",
                             "Dude: We've been\nexpecting you,\ntraveler.",
                             "Gal: Please, come\nthis way."
                         ],
@@ -9463,174 +9488,6 @@
                     }
                 },
                 {
-                    "id": "fbba2234-c58d-4ed9-a6d1-60277e315c5d",
-                    "command": "EVENT_SET_INPUT_SCRIPT",
-                    "args": {
-                        "input": [
-                            "b"
-                        ],
-                        "persist": true,
-                        "__scriptTabs": "press",
-                        "__comment": true
-                    },
-                    "children": {
-                        "true": [
-                            {
-                                "id": "02fe652b-696f-46f3-8c52-755b9abaa5f8",
-                                "command": "EVENT_IF_ACTOR_DIRECTION",
-                                "args": {
-                                    "actorId": "$self$",
-                                    "direction": "right",
-                                    "__collapseElse": false,
-                                    "__disableElse": true,
-                                    "__collapse": true
-                                },
-                                "children": {
-                                    "true": [
-                                        {
-                                            "id": "2e94a5df-bd2c-4e7a-84a9-f236830f4fcb",
-                                            "command": "EVENT_WEAPON_ATTACK",
-                                            "args": {
-                                                "spriteSheetId": "0d80b312-6b5e-4855-a605-808dc944f555",
-                                                "actorId": "$self$",
-                                                "collisionGroup": "3",
-                                                "collisionMask": [
-                                                    "1"
-                                                ]
-                                            }
-                                        },
-                                        {
-                                            "id": "d23c9e7b-2c2e-4f08-98b7-6de82d245402",
-                                            "command": "EVENT_END"
-                                        }
-                                    ],
-                                    "false": [
-                                        {
-                                            "id": "8a54dd4d-d8aa-4045-a86d-da2cd07eec4e",
-                                            "command": "EVENT_END"
-                                        }
-                                    ]
-                                }
-                            },
-                            {
-                                "id": "67688cd9-b157-4fca-99ef-ec37f07fef31",
-                                "command": "EVENT_IF_ACTOR_DIRECTION",
-                                "args": {
-                                    "actorId": "$self$",
-                                    "direction": "down",
-                                    "__collapseElse": false,
-                                    "__disableElse": true,
-                                    "__collapse": true
-                                },
-                                "children": {
-                                    "true": [
-                                        {
-                                            "id": "ccb22f5c-3e1c-4e9b-a3ef-c994c2118794",
-                                            "command": "EVENT_WEAPON_ATTACK",
-                                            "args": {
-                                                "spriteSheetId": "860c29d8-4bb4-42d2-8e53-0a078f62dafc",
-                                                "actorId": "$self$",
-                                                "collisionGroup": "1",
-                                                "collisionMask": [
-                                                    "1"
-                                                ]
-                                            }
-                                        },
-                                        {
-                                            "id": "6f16b659-302f-4051-953d-7e5cee5d453c",
-                                            "command": "EVENT_END"
-                                        }
-                                    ],
-                                    "false": [
-                                        {
-                                            "id": "2401d63d-18f5-45ef-b75f-42923edf8ba1",
-                                            "command": "EVENT_END"
-                                        }
-                                    ]
-                                }
-                            },
-                            {
-                                "id": "7feceda1-47e0-43af-966d-8829b75b031d",
-                                "command": "EVENT_IF_ACTOR_DIRECTION",
-                                "args": {
-                                    "actorId": "$self$",
-                                    "direction": "up",
-                                    "__collapseElse": false,
-                                    "__disableElse": true,
-                                    "__collapse": true
-                                },
-                                "children": {
-                                    "true": [
-                                        {
-                                            "id": "353ab4dc-1326-4c6b-b805-a23170724319",
-                                            "command": "EVENT_WEAPON_ATTACK",
-                                            "args": {
-                                                "spriteSheetId": "24550b34-cfe3-4789-8c5e-43425f0c8f46",
-                                                "actorId": "$self$",
-                                                "collisionGroup": "1",
-                                                "collisionMask": [
-                                                    "1"
-                                                ]
-                                            }
-                                        },
-                                        {
-                                            "id": "63a43a85-5485-4696-bee2-a4cd1d3ba7ef",
-                                            "command": "EVENT_END"
-                                        }
-                                    ],
-                                    "false": [
-                                        {
-                                            "id": "b0b909e1-ecca-4c1a-a3a1-4e3602bc45cd",
-                                            "command": "EVENT_END"
-                                        }
-                                    ]
-                                }
-                            },
-                            {
-                                "id": "54b76fef-33cc-44e2-8668-8964519056fa",
-                                "command": "EVENT_IF_ACTOR_DIRECTION",
-                                "args": {
-                                    "actorId": "$self$",
-                                    "direction": "left",
-                                    "__collapseElse": false,
-                                    "__disableElse": true,
-                                    "__collapse": true
-                                },
-                                "children": {
-                                    "true": [
-                                        {
-                                            "id": "afad25cb-0adc-421e-8163-01fc4788634f",
-                                            "command": "EVENT_WEAPON_ATTACK",
-                                            "args": {
-                                                "spriteSheetId": "bf9f5bf5-841e-4035-bd68-fe0ddd3451c6",
-                                                "actorId": "$self$",
-                                                "collisionGroup": "1",
-                                                "collisionMask": [
-                                                    "1"
-                                                ]
-                                            }
-                                        },
-                                        {
-                                            "id": "fde20ca4-a1b9-4de2-b956-6a4b77498779",
-                                            "command": "EVENT_END"
-                                        }
-                                    ],
-                                    "false": [
-                                        {
-                                            "id": "4b65a896-9074-41b0-a103-e9fd1dbca5d8",
-                                            "command": "EVENT_END"
-                                        }
-                                    ]
-                                }
-                            },
-                            {
-                                "id": "2429de10-4e62-4061-a1e2-11f25aa9181c",
-                                "command": "EVENT_END"
-                            }
-                        ]
-                    }
-                },
-                {
                     "id": "eb5ef13d-7a82-40ad-998c-6cbdef99237b",
                     "command": "EVENT_END"
                 }
@@ -10198,15 +10055,18 @@
                             "command": "EVENT_TEXT",
                             "args": {
                                 "text": [
-                                    "Dude 1:Your\nbrother was truly\namazing. He would",
-                                    "defend the village\nfrom those\nspiders.",
-                                    "You must now do\nthe same.",
+                                    "Dude 1:You\ncompleted your\ncourage trial.",
+                                    "Very nice. Your\nmother would\nproud. You must ",
+                                    "now tackle the\ntrial of\nperservearance.",
+                                    "Your brother\nwas outstanding. I\nhave no doubts ",
+                                    "that you won't be\nthe same. Now\ncomplete this ",
+                                    "test of courage\nand surpass your\nbrother!",
                                     "MC: I understand\nthat I must take\nhis place, but ",
                                     "how? I'm not like\nhim. I'm starting\nto think that I-",
-                                    "Dude 1: Don't\ndoubt yourself\ntraveler.",
+                                    "Dude 1: Don't\nhesitate traveler.\nI have faith.",
                                     "Follow this path,\ncomplete the\ntrials, and with",
-                                    "some\nperservereance,\nyou can succeed",
-                                    "MC: I'll give it\nmy all! I'll face\nyour trials n' win"
+                                    "some\nperservereance,\nyou can succeed.",
+                                    "MC: I'll give it\nmy all! I'll face\nthe trials n' win!"
                                 ],
                                 "avatarId": ""
                             }
@@ -12778,19 +12638,6 @@
                 }
             ],
             "playerHit1Script": [
-                {
-                    "id": "b6ded3cf-684a-4ef0-ae5b-79c53eb8ea1e",
-                    "command": "EVENT_WEAPON_ATTACK",
-                    "args": {
-                        "spriteSheetId": "d4108e56-ce83-4724-ad1f-9a7f61792926",
-                        "actorId": "$self$",
-                        "collisionGroup": "3",
-                        "collisionMask": [
-                            "1",
-                            "player"
-                        ]
-                    }
-                },
                 {
                     "id": "a11898e2-a64e-434e-9f0d-7b429ac698c8",
                     "command": "EVENT_END"
@@ -15923,13 +15770,13 @@
         }
     ],
     "settings": {
-        "startSceneId": "0d7a10da-474c-4a76-a9c6-8b8ca3dcabb6",
-        "startX": 8,
-        "startY": 8,
+        "startSceneId": "10ee4d8e-3e8e-469a-b832-1f36f9b30a07",
+        "startX": 0,
+        "startY": 0,
         "showCollisions": true,
         "showConnections": true,
         "worldScrollX": 0,
-        "worldScrollY": 357,
+        "worldScrollY": 464,
         "zoom": 100,
         "customColorsEnabled": false,
         "defaultBackgroundPaletteIds": [

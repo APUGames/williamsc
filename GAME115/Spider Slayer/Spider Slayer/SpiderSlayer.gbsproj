@@ -614,7 +614,7 @@
                     "command": "EVENT_TEXT",
                     "args": {
                         "text": [
-                            "Brother loved\nthis. It means\n\"God\" in Japanese"
+                            "Brother loved\nthis. It means\n\"God\" in Japanese."
                         ],
                         "avatarId": ""
                     }
@@ -1366,6 +1366,31 @@
                     "x": 3,
                     "y": 14,
                     "width": 2,
+                    "height": 1
+                },
+                {
+                    "name": "",
+                    "trigger": "walk",
+                    "script": [
+                        {
+                            "id": "8360cba3-de8d-4c8b-be6d-f9826a63d62a",
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "I will make you\nproud mom."
+                                ],
+                                "avatarId": ""
+                            }
+                        },
+                        {
+                            "id": "589383f5-ae7a-4df1-a886-aacc3f5ea44e",
+                            "command": "EVENT_END"
+                        }
+                    ],
+                    "id": "e1e01dd2-e863-417f-ba08-00ebfa6b1520",
+                    "x": 4,
+                    "y": 15,
+                    "width": 1,
                     "height": 1
                 }
             ]
@@ -4798,7 +4823,7 @@
                                 "text": [
                                     "Girl 1: You need\nto get rid of\nthose spiders!",
                                     "A group went to\nthe north\nmountains.",
-                                    "Another the cave.\nDeal with MC. Your\nmom would."
+                                    "Another the cave.\nDeal with it MC.\nYour mom would..."
                                 ],
                                 "avatarId": ""
                             }
@@ -5773,7 +5798,7 @@
                     "command": "EVENT_TEXT",
                     "args": {
                         "text": [
-                            "Woah, where am I?\nThis isn't the\ncave.",
+                            "MC: Woah, where am\nI? This isn't the\ncave.",
                             "Dude: We've been\nexpecting you,\ntraveler.",
                             "Gal: Please, come\nthis way."
                         ],
@@ -10030,15 +10055,18 @@
                             "command": "EVENT_TEXT",
                             "args": {
                                 "text": [
-                                    "Dude 1:Your\nbrother was truly\namazing. He would",
-                                    "defend the village\nfrom those\nspiders.",
-                                    "You must now do\nthe same.",
+                                    "Dude 1:You\ncompleted your\ncourage trial.",
+                                    "Very nice. Your\nmother would\nproud. You must ",
+                                    "now tackle the\ntrial of\nperservearance.",
+                                    "Your brother\nwas outstanding. I\nhave no doubts ",
+                                    "that you won't be\nthe same. Now\ncomplete this ",
+                                    "test of courage\nand surpass your\nbrother!",
                                     "MC: I understand\nthat I must take\nhis place, but ",
                                     "how? I'm not like\nhim. I'm starting\nto think that I-",
-                                    "Dude 1: Don't\ndoubt yourself\ntraveler.",
+                                    "Dude 1: Don't\nhesitate traveler.\nI have faith.",
                                     "Follow this path,\ncomplete the\ntrials, and with",
-                                    "some\nperservereance,\nyou can succeed",
-                                    "MC: I'll give it\nmy all! I'll face\nyour trials n' win"
+                                    "some\nperservereance,\nyou can succeed.",
+                                    "MC: I'll give it\nmy all! I'll face\nthe trials n' win!"
                                 ],
                                 "avatarId": ""
                             }
@@ -10609,9 +10637,13 @@
                             "command": "EVENT_TEXT",
                             "args": {
                                 "text": [
-                                    "Gal: Your mother\nwas truly amazing.\nShe protected the ",
-                                    "village from those\ntreacherous\nspiders.",
-                                    "You must now do\nthe same.",
+                                    "Gal: Congrats on\ncompleting the\ntrial of ",
+                                    "perservearance.\nYour brother's\njudgement was not ",
+                                    "misplaced. ",
+                                    "MC: You knew my\nbrother? What\nhappened?",
+                                    "Gal: You will find\nout all in due\ntime. You must now",
+                                    "complete the trial\nof courage and\nfollow in her ",
+                                    "footsteps\ntraveler.",
                                     "MC: I understand\nthat I must follow\nin her footsteps",
                                     "but how? I'm not \nlike her, and I'm\nbeginning to th-",
                                     "Gal: Don't doubt\nyourself traveler!\nI shall help you.",
@@ -15742,13 +15774,13 @@
         }
     ],
     "settings": {
-        "startSceneId": "e8759593-9582-4ae3-b662-4697deece798",
-        "startX": 22,
-        "startY": 11,
+        "startSceneId": "10ee4d8e-3e8e-469a-b832-1f36f9b30a07",
+        "startX": 0,
+        "startY": 0,
         "showCollisions": true,
         "showConnections": true,
         "worldScrollX": 0,
-        "worldScrollY": 534,
+        "worldScrollY": 464,
         "zoom": 100,
         "customColorsEnabled": false,
         "defaultBackgroundPaletteIds": [
