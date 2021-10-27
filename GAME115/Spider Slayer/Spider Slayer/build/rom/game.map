@@ -189,7 +189,7 @@ AREA .  .ABS.
 		l__HOME	0252
 		l__GSINIT	0507
 		l__DATA	0E1E
-		l__CODE_9	10C8
+		l__CODE_9	13A2
 		l__CODE_5	2109
 		l__CODE	2C12
 		s__HOME	2E12
@@ -200,9 +200,9 @@ AREA .  .ABS.
 		l__CODE_1	35B4
 		s__GSINITTAIL	3789
 		s__GSFINAL	378A
-		l__CODE_8	3FDE
-		l__CODE_7	3FF7
-		l__CODE_6	3FFE
+		l__CODE_6	3FF8
+		l__CODE_8	3FFC
+		l__CODE_7	3FFE
 		s__CODE_1	4000
 		s__CODE_4	4000
 		s__CODE_5	4000
@@ -1019,28 +1019,28 @@ AREA _XSEG
 AREA _CODE_6
 	RADIX HEX
 	BASE 4000
-	SIZE 3FFE
+	SIZE 3FF8
 	ATTRIB REL CON
 	GLOBALS
 		_bank_6_data	4000
 AREA _CODE_7
 	RADIX HEX
 	BASE 4000
-	SIZE 3FF7
+	SIZE 3FFE
 	ATTRIB REL CON
 	GLOBALS
 		_bank_7_data	4000
 AREA _CODE_8
 	RADIX HEX
 	BASE 4000
-	SIZE 3FDE
+	SIZE 3FFC
 	ATTRIB REL CON
 	GLOBALS
 		_bank_8_data	4000
 AREA _CODE_9
 	RADIX HEX
 	BASE 4000
-	SIZE 10C8
+	SIZE 13A2
 	ATTRIB REL CON
 	GLOBALS
 		_bank_9_data	4000
@@ -1479,64 +1479,64 @@ MODULES
 		NAME Runtime
 	FILE /var/folders/7s/pybt7lnx73d754wjmc2htk_h0000gn/T/_gbsbuild/obj/Actor_a.o
 	FILE /var/folders/7s/pybt7lnx73d754wjmc2htk_h0000gn/T/_gbsbuild/obj/Actor_b.o
-		NAME _var_folders_7s_pybt7lnx73d754wj–LVÅê
+		NAME _var_folders_7s_pybt7lnx73d754wj–Afvã
 	FILE /var/folders/7s/pybt7lnx73d754wjmc2htk_h0000gn/T/_gbsbuild/obj/Actor.o
-		NAME _var_folders_7s_pybt7lnx73d754wjêTVÅê
+		NAME _var_folders_7s_pybt7lnx73d754wjêIfvã
 	FILE /var/folders/7s/pybt7lnx73d754wjmc2htk_h0000gn/T/_gbsbuild/obj/asm.macros.o
 	FILE /var/folders/7s/pybt7lnx73d754wjmc2htk_h0000gn/T/_gbsbuild/obj/BankData.o
-		NAME _var_folders_7s_pybt7lnx73d754wjp[VÅê
+		NAME _var_folders_7s_pybt7lnx73d754wjpPfvã
 	FILE /var/folders/7s/pybt7lnx73d754wjmc2htk_h0000gn/T/_gbsbuild/obj/BankManager.o
-		NAME _var_folders_7s_pybt7lnx73d754wj0_VÅê
+		NAME _var_folders_7s_pybt7lnx73d754wj0Tfvã
 	FILE /var/folders/7s/pybt7lnx73d754wjmc2htk_h0000gn/T/_gbsbuild/obj/Camera_a.o
 	FILE /var/folders/7s/pybt7lnx73d754wjmc2htk_h0000gn/T/_gbsbuild/obj/Camera.o
-		NAME _var_folders_7s_pybt7lnx73d754wj‡cVÅê
+		NAME _var_folders_7s_pybt7lnx73d754wj‡Xfvã
 	FILE /var/folders/7s/pybt7lnx73d754wjmc2htk_h0000gn/T/_gbsbuild/obj/Collision.o
-		NAME _var_folders_7s_pybt7lnx73d754wj–gVÅê
+		NAME _var_folders_7s_pybt7lnx73d754wj–\fvã
 	FILE /var/folders/7s/pybt7lnx73d754wjmc2htk_h0000gn/T/_gbsbuild/obj/Core_Main.o
-		NAME _var_folders_7s_pybt7lnx73d754wjP{VÅê
+		NAME _var_folders_7s_pybt7lnx73d754wjPpfvã
 	FILE /var/folders/7s/pybt7lnx73d754wjmc2htk_h0000gn/T/_gbsbuild/obj/DataManager.o
-		NAME _var_folders_7s_pybt7lnx73d754wjpÉVÅê
+		NAME _var_folders_7s_pybt7lnx73d754wj∞|fvã
 	FILE /var/folders/7s/pybt7lnx73d754wjmc2htk_h0000gn/T/_gbsbuild/obj/FadeManager_b.o
-		NAME _var_folders_7s_pybt7lnx73d754wj`qRÅê
+		NAME _var_folders_7s_pybt7lnx73d754wj`Éfvã
 	FILE /var/folders/7s/pybt7lnx73d754wjmc2htk_h0000gn/T/_gbsbuild/obj/FadeManager.o
-		NAME _var_folders_7s_pybt7lnx73d754wj@∆RÅê
+		NAME _var_folders_7s_pybt7lnx73d754wj0áfvã
 	FILE /var/folders/7s/pybt7lnx73d754wjmc2htk_h0000gn/T/_gbsbuild/obj/gbt_player_bank1.o
 	FILE /var/folders/7s/pybt7lnx73d754wjmc2htk_h0000gn/T/_gbsbuild/obj/gbt_player.o
 	FILE /var/folders/7s/pybt7lnx73d754wjmc2htk_h0000gn/T/_gbsbuild/obj/Input.o
-		NAME _var_folders_7s_pybt7lnx73d754wj†’RÅê
+		NAME _var_folders_7s_pybt7lnx73d754wj†ñfvã
 	FILE /var/folders/7s/pybt7lnx73d754wjmc2htk_h0000gn/T/_gbsbuild/obj/Math.o
-		NAME _var_folders_7s_pybt7lnx73d754wjÄ⁄TÅê
+		NAME _var_folders_7s_pybt7lnx73d754wj öfvã
 	FILE /var/folders/7s/pybt7lnx73d754wjmc2htk_h0000gn/T/_gbsbuild/obj/MusicManager.o
-		NAME _var_folders_7s_pybt7lnx73d754wj0URÅê
+		NAME _var_folders_7s_pybt7lnx73d754wjp°fvã
 	FILE /var/folders/7s/pybt7lnx73d754wjmc2htk_h0000gn/T/_gbsbuild/obj/Palette.o
-		NAME _var_folders_7s_pybt7lnx73d754wj@YRÅê
+		NAME _var_folders_7s_pybt7lnx73d754wjÄ•fvã
 	FILE /var/folders/7s/pybt7lnx73d754wjmc2htk_h0000gn/T/_gbsbuild/obj/Projectiles_b.o
-		NAME _var_folders_7s_pybt7lnx73d754wj
+		NAME _var_folders_7s_pybt7lnx73d754wj@©fvã
 	FILE /var/folders/7s/pybt7lnx73d754wjmc2htk_h0000gn/T/_gbsbuild/obj/Projectiles.o
-		NAME _var_folders_7s_pybt7lnx73d754wjê`RÅê
+		NAME _var_folders_7s_pybt7lnx73d754wj–¨fvã
 	FILE /var/folders/7s/pybt7lnx73d754wjmc2htk_h0000gn/T/_gbsbuild/obj/ScriptRunner_b.o
-		NAME _var_folders_7s_pybt7lnx73d754wj∞~RÅê
+		NAME _var_folders_7s_pybt7lnx73d754wj ∏fvã
 	FILE /var/folders/7s/pybt7lnx73d754wjmc2htk_h0000gn/T/_gbsbuild/obj/ScriptRunner.o
-		NAME _var_folders_7s_pybt7lnx73d754wjÉRÅê
+		NAME _var_folders_7s_pybt7lnx73d754wj‹fvã
 	FILE /var/folders/7s/pybt7lnx73d754wjmc2htk_h0000gn/T/_gbsbuild/obj/Scroll_a.o
 	FILE /var/folders/7s/pybt7lnx73d754wjmc2htk_h0000gn/T/_gbsbuild/obj/Scroll_b.o
-		NAME _var_folders_7s_pybt7lnx73d754wj∞‡SÅê
-	FILE /var/folders/7s/pybt7lnx73d754wjmc2htk_h0000gn/T/_gbsbuild/obj/Scroll.o
-		NAME _var_folders_7s_pybt7lnx73d754wj0ëVÅê
-	FILE /var/folders/7s/pybt7lnx73d754wjmc2htk_h0000gn/T/_gbsbuild/obj/Sprite_b.o
-		NAME _var_folders_7s_pybt7lnx73d754wjPïVÅê
-	FILE /var/folders/7s/pybt7lnx73d754wjmc2htk_h0000gn/T/_gbsbuild/obj/Sprite.o
-		NAME _var_folders_7s_pybt7lnx73d754wj‡òVÅê
-	FILE /var/folders/7s/pybt7lnx73d754wjmc2htk_h0000gn/T/_gbsbuild/obj/Stack.o
-		NAME _var_folders_7s_pybt7lnx73d754wj–öVÅê
-	FILE /var/folders/7s/pybt7lnx73d754wjmc2htk_h0000gn/T/_gbsbuild/obj/Trigger_b.o
 		NAME _var_folders_7s_pybt7lnx73d754wj
+	FILE /var/folders/7s/pybt7lnx73d754wjmc2htk_h0000gn/T/_gbsbuild/obj/Scroll.o
+		NAME _var_folders_7s_pybt7lnx73d754wjPÊfvã
+	FILE /var/folders/7s/pybt7lnx73d754wjmc2htk_h0000gn/T/_gbsbuild/obj/Sprite_b.o
+		NAME _var_folders_7s_pybt7lnx73d754wjpÍfvã
+	FILE /var/folders/7s/pybt7lnx73d754wjmc2htk_h0000gn/T/_gbsbuild/obj/Sprite.o
+		NAME _var_folders_7s_pybt7lnx73d754wj
+	FILE /var/folders/7s/pybt7lnx73d754wjmc2htk_h0000gn/T/_gbsbuild/obj/Stack.o
+		NAME _var_folders_7s_pybt7lnx73d754wjÔfvã
+	FILE /var/folders/7s/pybt7lnx73d754wjmc2htk_h0000gn/T/_gbsbuild/obj/Trigger_b.o
+		NAME _var_folders_7s_pybt7lnx73d754wj Úfvã
 	FILE /var/folders/7s/pybt7lnx73d754wjmc2htk_h0000gn/T/_gbsbuild/obj/Trigger.o
-		NAME _var_folders_7s_pybt7lnx73d754wj†üVÅê
+		NAME _var_folders_7s_pybt7lnx73d754wj¿Ùfvã
 	FILE /var/folders/7s/pybt7lnx73d754wjmc2htk_h0000gn/T/_gbsbuild/obj/UI_b.o
-		NAME _var_folders_7s_pybt7lnx73d754wj†´VÅê
+		NAME _var_folders_7s_pybt7lnx73d754wj¿
 	FILE /var/folders/7s/pybt7lnx73d754wjmc2htk_h0000gn/T/_gbsbuild/obj/UI.o
-		NAME _var_folders_7s_pybt7lnx73d754wj∑VÅê
+		NAME _var_folders_7s_pybt7lnx73d754wj0gvã
 	FILE /var/folders/7s/pybt7lnx73d754wjmc2htk_h0000gn/T/_gbsbuild/obj/bank_6.o
 		NAME bank_6
 	FILE /var/folders/7s/pybt7lnx73d754wjmc2htk_h0000gn/T/_gbsbuild/obj/bank_7.o
@@ -1546,19 +1546,19 @@ MODULES
 	FILE /var/folders/7s/pybt7lnx73d754wjmc2htk_h0000gn/T/_gbsbuild/obj/bank_9.o
 		NAME bank_9
 	FILE /var/folders/7s/pybt7lnx73d754wjmc2htk_h0000gn/T/_gbsbuild/obj/data_ptrs.o
-		NAME _var_folders_7s_pybt7lnx73d754wj–≈VÅê
+		NAME _var_folders_7s_pybt7lnx73d754wj0gvã
 	FILE /var/folders/7s/pybt7lnx73d754wjmc2htk_h0000gn/T/_gbsbuild/obj/main.o
-		NAME _var_folders_7s_pybt7lnx73d754wjXL
+		NAME _var_folders_7s_pybt7lnx73d754wj∞ gvã
 	FILE /var/folders/7s/pybt7lnx73d754wjmc2htk_h0000gn/T/_gbsbuild/obj/Adventure.o
-		NAME _var_folders_7s_pybt7lnx73d754wj†]@Åê
+		NAME _var_folders_7s_pybt7lnx73d754wj#gvã
 	FILE /var/folders/7s/pybt7lnx73d754wjmc2htk_h0000gn/T/_gbsbuild/obj/Platform.o
-		NAME _var_folders_7s_pybt7lnx73d754wj``@Åê
+		NAME _var_folders_7s_pybt7lnx73d754wj–%gvã
 	FILE /var/folders/7s/pybt7lnx73d754wjmc2htk_h0000gn/T/_gbsbuild/obj/PointNClick.o
-		NAME _var_folders_7s_pybt7lnx73d754wj
+		NAME _var_folders_7s_pybt7lnx73d754wjp)gvã
 	FILE /var/folders/7s/pybt7lnx73d754wjmc2htk_h0000gn/T/_gbsbuild/obj/Shmup.o
-		NAME _var_folders_7s_pybt7lnx73d754wj
+		NAME _var_folders_7s_pybt7lnx73d754wjp,gvã
 	FILE /var/folders/7s/pybt7lnx73d754wjmc2htk_h0000gn/T/_gbsbuild/obj/TopDown.o
-		NAME _var_folders_7s_pybt7lnx73d754wj`j@Åê
+		NAME _var_folders_7s_pybt7lnx73d754wj–/gvã
 LIBRARIES
 	LIBRARY /var/folders/7s/pybt7lnx73d754wjmc2htk_h0000gn/T/_gbstools/gbdk/lib/small/asxxxx/gb/gb.lib
 		MODULE sfr.o
